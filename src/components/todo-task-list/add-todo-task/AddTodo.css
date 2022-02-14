@@ -1,0 +1,16 @@
+
+.text-highlight {
+    text-align: left;
+    padding: 20px;
+    border: 2px solid #fff;
+    color: rgba(89,204,228,255);
+    background-color: #fff;
+    border-radius: 0.5rem;
+    margin-bottom: 15px;
+    word-break: break-word;
+}
+
+.submitButton {text-align: center;position: relative;}
+.submitButton button {text-transform: uppercase;background-color: #fff;padding: 12px 30px;border-radius: 0.5rem;outline: 0;border: 0;color: rgba(89,204,228,255);}
+.limit {color: #fff;position: absolute;right: 0;top: -20px;}
+mark {color: rgb(171, 57, 71);background-color: transparent;}

@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+  }
+.customerInfo {
+  min-height: 95vh;
+  margin: 2.5vh 0;
+  border: 3px solid rgba(106,193,216,255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.customerInfo .customerPro img {
+  padding-bottom: 15px;
+  display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.customerInfo .customerPro h2 {
+  padding-bottom: 20px;
+  color: rgba(77,195,222,255);
+}
+.todoMain {
+  min-height: 100vh;
+  display: table;
+    width: 100%;
+    height: 100%;
+  background-image: linear-gradient(rgba(229,250,255,255),rgba(14,200,249,255));
+}
+.todoMain .todoMainThumb {
+  padding: 0 20px;
+  vertical-align: middle;
+  display:table-cell;
+}

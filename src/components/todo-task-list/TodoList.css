@@ -1,0 +1,18 @@
+
+.task-list h2 {color: rgba(89,204,228,255);text-align: center;}
+.nodos {color: rgba(89,204,228,255);text-align: center;}
+.tasklistMain {height: 400px;overflow-y: scroll;border: 2px solid #fff;}
+.task-item {
+    width: 100%;
+    background-color: #fff;
+    color: rgba(89,204,228,255);
+    border-radius: 0.5rem;
+    padding: 30px 15px;
+    margin-bottom: 10px;
+    word-break: break-word;
+}
+
+.taskList-thumb {padding: 20px;}
+
+.createButton {text-align: center;padding-top: 30px;}
+.createButton button {text-transform: uppercase;background-color: #fff;padding: 12px 30px;border-radius: 0.5rem;outline: 0;border: 0;color: rgba(89,204,228,255);}
